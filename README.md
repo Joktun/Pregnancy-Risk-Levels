@@ -15,6 +15,9 @@
 ### Risk Level:
 Предсказанный уровень риска во время беременности, учитывая предыдущие атрибуты <br>
 
+## Ссылка на датасет
+https://drive.google.com/file/d/194kkxTvtltiDiqcAHjzIpIXqShymPnHX/view?usp=sharing
+
 ## Клонировать репозиторий
 git clone https://github.com/Joktun/Pregnancy-Risk-Levels
 
